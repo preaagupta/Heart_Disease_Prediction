@@ -24,8 +24,5 @@ The dataset includes features like age, sex, chest pain type, resting blood pres
 - Confusion Matrix
 - Cross-validation
 
-## 🗂️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/Heart_Disease_Prediction.git
-   cd Heart_Disease_Prediction
+## 🗂️CODE
+   https://colab.research.google.com/drive/1c27aIp2AnRIOvg_bGeq94dBCxq4Fb-vL?usp=sharing
